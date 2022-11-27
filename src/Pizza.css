@@ -1,3 +1,7 @@
+.container{
+    display: flex;
+    align-content: space-around;
+}
 .container-pizza{
     width: 250px;
     border-radius: 20px;
