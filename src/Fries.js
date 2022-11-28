@@ -12,7 +12,7 @@ function Fries(){
            <div className='container-pizza'>
               <h1>Noodles🍜🍜🍜</h1>
               <span className='container-item-pizza'>Nothing can replace its taste...🤩😊</span>
-              <h2 className='name'>₨.120/-</h2>
+              <h2 className='name'>₨.140/-</h2>
            </div>
 
            <div className='container-pizza'>
